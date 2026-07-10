@@ -68,13 +68,7 @@ Contributing to an open source Python dependency injection framework while learn
 
 ## 🌎 A Little About Me
 
-🇦🇿 Originally from Azerbaijan
-
 🦉 Cybersecurity & Human Behavior @ Temple University
-
-🎾 You'll usually find me on a tennis court after classes.
-
-🎹 Piano is my favorite way to unplug and recharge.
 
 ✈️ I love traveling, meeting new people, and learning from different cultures.
 
